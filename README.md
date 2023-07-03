@@ -1,4 +1,4 @@
-# chatmanipulator
+# namehighlight
 Written by Peace12345 (aka Brain_Juice)
 Highlight your name in the chat, block all messages without your name, or block the entire chat.
 
